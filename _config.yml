@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: ktothep.github.io# the base hostname & protocol for your site
 author:
 country: India
-phone: 7875496349
+email: Karanprinja@hotmail.com
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
