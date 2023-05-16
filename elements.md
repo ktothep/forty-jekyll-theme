@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DataScience Projects
+description: Welcome to my data science portfolio showcase, where data comes to life! Within this collection, I invite you to explore the fascinating world of data science through a variety of projects that exemplify my expertise and passion for extracting meaningful insights from complex datasets.
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
