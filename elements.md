@@ -17,7 +17,6 @@ nav-menu: true
 
 <!-- Content -->
 
-<p>This Page displays different projects for my own understanding and usage of different components in integration with eachother</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Mutual Fund Pipeline</h3>
