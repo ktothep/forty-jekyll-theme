@@ -6,7 +6,6 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Selenium Automation Framework</h3>
@@ -15,15 +14,14 @@ nav-menu: true
 		as well.Reading Data from Excel using Pacahe POI librarires</p>
 	</div>
 	
-	<!-- Break -->
-	<br>
+	
+
 	<div class="6u 12u$(small)">
 		<h3>Selenium Automation Framework</h3>
 		<a>https://github.com/ktothep/Automation_Framework_TDD</a>
-		<p>An enchance version of previous UI framework.I have made use of Grafana to keep a track of number of test failures and pass
-		and generate a Graph based on it.</p>
+		<p>An enchance version of previous UI framework.I have made use of Grafana to keep a track of number of test failures and                      pass and generate a Graph based on it.</p>
 	</div>
-	<br>
+	
 	<div class="6u 12u$(small)">
 		<h3>Selenium Automation Framework</h3>
 		<a>https://github.com/ktothep/RestAssured-Serenity</a>
