@@ -20,12 +20,26 @@ nav-menu: true
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Mutual Fund Pipeline</h3>
-		<a>https://github.com/ktothep/MutualFund_DataPipeline</a>
-		<p>Parse the Mutualfund report which is generated daily and store the latest NAV values of each fund in MongoDb.Then using MongoDb analyse the returns given by each fund</p>
+		<h3>Selenium Automation Framework</h3>
+		<a>https://github.com/ktothep/SeleniumTestAutomationFramework</a>
+		<p>UI automation Framework making use of selenium,TestNG and JAVA.I have implemented different TestNG listeners
+		as well.Reading Data from Excel using Pacahe POI librarires</p>
 	</div>
-	<!-- Break -->
 	
+	<!-- Break -->
+	<br>
+	<div class="6u 12u$(small)">
+		<h3>Selenium Automation Framework</h3>
+		<a>https://github.com/ktothep/Automation_Framework_TDD</a>
+		<p>An enchance version of previous UI framework.I have made use of Grafana to keep a track of number of test failures and pass
+		and generate a Graph based on it.</p>
+	</div>
+	<br>
+	<div class="6u 12u$(small)">
+		<h3>Selenium Automation Framework</h3>
+		<a>https://github.com/ktothep/RestAssured-Serenity</a>
+		<p>API Testing Framework using JAVA,Rest Assured and making use of serenity for generation of reports.</p>
+	</div>
 	
 	
 </div>
