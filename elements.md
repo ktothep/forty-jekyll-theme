@@ -30,11 +30,21 @@ nav-menu: true
 
 
 <div class="row">
+<div class="6u 12u$(small)">
+		<h3>Advanced Regression using Lasso and Ridge</h3>
+		<a>https://github.com/ktothep/AdvanceRegression-HousingPrediction</a>
+		<p>Shown usage of Lasso and ridge Regression to predict house prices</p>
+	</div>
 	
 </div>
 
 
 <div class="row">
+<div class="6u 12u$(small)">
+		<h3>Linear Regression</h3>
+		<a>https://github.com/ktothep/bike-lending-case-study</a>
+		<p>Linear Regression performed on the Bike Lending Dataset</p>
+	</div>
 	
 </div>
 
